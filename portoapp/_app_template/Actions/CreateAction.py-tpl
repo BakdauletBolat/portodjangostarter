@@ -1,0 +1,3 @@
+class {{camel_case_app_name}}CreateAction:
+    def run():
+        return 'Action Return'

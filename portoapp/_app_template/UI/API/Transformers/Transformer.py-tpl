@@ -1,0 +1,2 @@
+class {{camel_case_app_name}}Transformer:
+    pass
