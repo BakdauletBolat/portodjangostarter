@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "portoapp"
-version = "0.1.0"
-description = "With protostart we can make porto containers in django project"
+name = "portodjangostarter"
+version = "0.1.1"
+description = "With portodjangostarter we can start porto containers in django project"
 authors = ["BakdauletBolat"]
 
 [tool.poetry.dependencies]

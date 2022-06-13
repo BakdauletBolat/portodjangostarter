@@ -15,7 +15,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'portoapp'
+    'portodjangostarter'
 ]
 
 MIDDLEWARE = [
@@ -28,7 +28,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'portoapp.urls'
+ROOT_URLCONF = 'portodjangostarter.urls'
 
 TEMPLATES = [
     {
@@ -46,7 +46,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'portoapp.wsgi.application'
+WSGI_APPLICATION = 'portodjangostarter.wsgi.application'
 
 DATABASES = {
     'default': {
