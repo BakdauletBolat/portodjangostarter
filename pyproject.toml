@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "portodjangostarter"
-version = "0.1.1"
+version = "0.1.2"
 description = "With portodjangostarter we can start porto containers in django project"
 authors = ["BakdauletBolat <bakosh21345@gmail.com>"]
 
