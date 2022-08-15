@@ -1,5 +1,4 @@
-from portoapp.config.PortoAppConfig import PortoAppConfig
+from django.apps import AppConfig
 
-
-class {{camel_case_app_name}}Config(PortoAppConfig):
+class {{camel_case_app_name}}Config(AppConfig):
     name = "{{app_name}}"
